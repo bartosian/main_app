@@ -19,5 +19,8 @@ Rails.application.routes.draw do
   delete '/logout', to: 'sessions#destroy'
 
   # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
+
+  resources :account_activations, only: [:edit]
+
   root 'static_pages#home'
 end
