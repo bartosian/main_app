@@ -20,8 +20,10 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="CFPropertyList (v2.3.6, ruby-2.6.3-p62) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="bundler (v1.17.2, ruby-2.6.3-p62) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="mini_portile2 (v2.4.0, ruby-2.6.3-p62) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="xmlrpc (v0.3.0, ruby-2.6.3-p62) [gem]" level="application" />
   </component>
   <component name="RModuleSettingsStorage">
     <LOAD_PATH number="0" />
