@@ -18,7 +18,7 @@ gem 'will_paginate'
 
 gem 'bootstrap-will_paginate'
 
-gem 'bootstrap-sass', '3.3.6'
+gem 'bootstrap-sass', '3.4.1'
 
 gem 'puma',         '3.4.0'
 
